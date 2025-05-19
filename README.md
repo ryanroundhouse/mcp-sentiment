@@ -10,4 +10,7 @@ pinned: false
 short_description: analyzes the sentiment of a block of text
 ---
 
+MCP hosted at: https://huggingface.co/spaces/ryanroundhouse/mcp-sentiment
+This also includes a test agent that uses that hosting and a local ollama llm.
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
